@@ -1,0 +1,8 @@
+This is a fork of Alan Burlinson's Makefile for Arduino sketches[1]. The
+Makefile didn't work for me on Arduino 1.0 and I had to make some adjustments. I
+also removed code supporting older Arduino environments, so this will probably
+not work with Arduino < 0023.
+
+Feel free to open a pull request if you have any improvements or suggestions.
+
+[1] http://bleaklow.com/2010/06/04/a_makefile_for_arduino_sketches.html
